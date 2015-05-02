@@ -1,10 +1,10 @@
 {
-  "name": "learn-travis",
-  "description": "Simple nodejs, travis and grunt demo",
+  "name": "unit-testing",
+  "description": "IS-219:Homework 3",
   "author": "Leonard :-)",
   "version": "0.0.1",
   "devDependencies": {
-    "jshint": "^2.7.0"
+    "mocha": "^2.2.4"
   },
   "scripts": {
     "test": "mocha"
